@@ -7,7 +7,6 @@ I am a results-driven **Information Technology Engineer** specializing in **Arti
 
 ## 🎓 Academic Excellence
 * **B.S. in IT Engineering (AI Specialization)**
-* **Final Grade:** 88.79% (Very Good) 🌟
 * **Language Proficiency:** * English: **TOEFL iBT Score 82/120** (Speaking: 24) 🇬🇧
   * German: **B1 Level** 🇩🇪
 
